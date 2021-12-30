@@ -50,7 +50,7 @@ AWS IoT Greengrass Version 2是一種開源物聯網 (Internet of Thing, IoT) �
 
    
 
-2. 下載OpenWrt原始碼，並進行環境設置，您可以從此[鏈結](https://tec-temp.s3.us-east-2.amazonaws.com/openwrt.config)下載編譯OpenWrt時所需要用到的組態檔。
+2. 下載OpenWrt原始碼，並進行環境設置，您可以從此[鏈結](https://github.com/aws-tec/technical-blog-ggv2-openwrt/blob/main/openwrt.config?raw=true)下載編譯OpenWrt時所需要用到的組態檔。
 
    ```shell
    #下載OpenWrt原始碼
